@@ -574,7 +574,7 @@ dD32PP1/dt=0*(v36*Dp34p1p2+v36b*D34p1p2A+v36c*D34p1p2P+v36d*D34p1p2C)+k_35*D32*P
 #### Cdk5 + D32 <--> CDK5D32 --> D32p75 + Cdk5 (23) #####
 #however, check Lew, Wang 95, ca 5-10mikroM/min/mg
 #below from Bibb et al, J Biol Chem. 2001, 276:14490-7
-#(cdk5=33kDa, Km around 5500, vmax=0.5 (from 0.9 µmol/min/mg), under the assumption that DARPP behaves as Inh-1 (Ser67))
+#(cdk5=33kDa, Km around 5500, vmax=0.5 (from 0.9 umol/min/mg), under the assumption that DARPP behaves as Inh-1 (Ser67))
 # Nishi et al, Proc Natl Acad Sci U S A. 2000 97:12840-5, D1 decrease Thr75 to 50%, max decrease after 4 min (240s)
 
 parameters k23=0.00045 k_23=2 v23=0.5
